@@ -1,0 +1,238 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1650069193698ebb48": {
+      "type": "collapsible-content",
+      "disabled": true,
+      "blocks": {
+        "16500691932a301f9b-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JEP-101 with Seat",
+            "icon": "clipboard",
+            "row_content": "<p>Information Coming Soon<\/p>",
+            "page": ""
+          }
+        },
+        "16500691932a301f9b-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JEP-102 with Seat",
+            "icon": "clipboard",
+            "row_content": "<p>Information Coming Soon<\/p>",
+            "page": ""
+          }
+        },
+        "16500691932a301f9b-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JEP-201 Seatless",
+            "icon": "clipboard",
+            "row_content": "<p>Information Coming Soon<\/p>",
+            "page": ""
+          }
+        },
+        "16500691932a301f9b-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JEP-202 Seatless",
+            "icon": "clipboard",
+            "row_content": "<p>Information Coming Soon<\/p>",
+            "page": ""
+          }
+        },
+        "b7c8dfcd-1081-47c2-951f-b47e79b35750": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "JEP-1 Electric",
+            "icon": "clipboard",
+            "row_content": "<p>Information Coming Soon<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16500691932a301f9b-0",
+        "16500691932a301f9b-1",
+        "16500691932a301f9b-2",
+        "16500691932a301f9b-3",
+        "b7c8dfcd-1081-47c2-951f-b47e79b35750"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-2",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16500581539825ac8e": {
+      "type": "collapsible-content",
+      "blocks": {
+        "1650058152a63c03dd-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return it if I don't like it?",
+            "icon": "question_mark",
+            "row_content": "<p>Due to the hygienic nature of our products, JEP can only accept products that are unopened, unused, and re-sellable.<\/p><p>Customer returns will incur a 10% restocking and handling fee to offset our shipping and handling costs.<\/p><p>Please refer to our <a href=\"https:\/\/jep-bath.myshopify.com\/policies\/refund-policy\" title=\"Refund Policy\">Returns & Refunds<\/a> policy for more information<\/p>",
+            "page": ""
+          }
+        },
+        "1650058152a63c03dd-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the difference between JEP-101 and JEP-102",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1650058152a63c03dd-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the difference between JEP-201 and JEP-202",
+            "icon": "question_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "1650058152a63c03dd-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the Warranty on your Bidets",
+            "icon": "question_mark",
+            "row_content": "<p>You can rest assured knowing that for the first year, all material and labor is covered. Beyond the first year, you will receive a three-year limited warranty.  <\/p><p>Please refer to our <a href=\"https:\/\/jep-bath.myshopify.com\/pages\/warranty\" title=\"Warranty\">Warranty policy <\/a>for more information<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650058152a63c03dd-0",
+        "1650058152a63c03dd-1",
+        "1650058152a63c03dd-2",
+        "1650058152a63c03dd-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Product Questions",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/about-image.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16500556721d84c0cc": {
+      "type": "multicolumn",
+      "blocks": {
+        "1650055672e341d388-0": {
+          "type": "column",
+          "settings": {
+            "title": "Fast Shipping",
+            "text": "<p>FREE ground shipping for all orders within the contiguous United States!<\/p>",
+            "link_label": "more",
+            "link": "shopify:\/\/policies\/shipping-policy"
+          }
+        },
+        "1650055672e341d388-1": {
+          "type": "column",
+          "settings": {
+            "title": "Satisfaction Guaranteed",
+            "text": "<p>Transform your bathroom experience. We know you will love your new bidet!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650055672e341d388-2": {
+          "type": "column",
+          "settings": {
+            "title": "Warranty",
+            "text": "<p>All products purchased from JEP are backed by a <strong>1 year <\/strong>warranty.<\/p>",
+            "link_label": "more",
+            "link": "shopify:\/\/pages\/warranty"
+          }
+        }
+      },
+      "block_order": [
+        "1650055672e341d388-0",
+        "1650055672e341d388-1",
+        "1650055672e341d388-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "Find my Bidet",
+        "button_link": "shopify:\/\/collections",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16500691748e08628e": {
+      "type": "newsletter",
+      "blocks": {
+        "1650069174196e7680-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "1650069174196e7680-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        },
+        "1650069174196e7680-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "1650069174196e7680-0",
+        "1650069174196e7680-1",
+        "1650069174196e7680-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1650069193698ebb48",
+    "16500581539825ac8e",
+    "16500556721d84c0cc",
+    "16500691748e08628e"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1650375002342afcaf": {
+      "type": "image-with-text",
+      "blocks": {
+        "16503750022bd938e0-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Your satisfaction is our priority",
+            "heading_size": "h1"
+          }
+        },
+        "16503750022bd938e0-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>All products purchased from JEP are backed by a <strong>1 year<\/strong> warranty. Our promise to you is that our products are free from defects in materials and workmanship under normal use. <\/p><p>You can rest assured knowing that for the first year, all material and labor is covered. Beyond the first year, you will receive a three-year limited warranty.  <\/p><p>Contact customer support at <a href=\"mailto:info@jepbath.com\">info@jepbath.com<\/a> for more detailed information related to our warranty policy.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "16503750022bd938e0-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Find my Bidet",
+            "button_link": "shopify:\/\/collections\/all"
+          }
+        }
+      },
+      "block_order": [
+        "16503750022bd938e0-0",
+        "16503750022bd938e0-1",
+        "16503750022bd938e0-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/satisfaction-guarantee-2109235_1280.png",
+        "height": "small",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1650375002342afcaf"
+  ]
+}

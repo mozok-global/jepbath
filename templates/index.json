@@ -1,0 +1,400 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "disabled": true,
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLEANER IS BETTER",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Experience Luxury Bidet Toilet Seats with JEP Bath",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop now",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "16500467805429fb38": {
+      "type": "image-banner",
+      "blocks": {
+        "1650046780b300f305-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "CLEANER IS BETTER",
+            "heading_size": "h0"
+          }
+        },
+        "1650046780b300f305-1": {
+          "type": "text",
+          "settings": {
+            "text": "Experience Luxury Bidet Toilet Seats with JEP Bath",
+            "text_style": "subtitle"
+          }
+        },
+        "1650046780b300f305-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Electric Bidets",
+            "button_link_1": "shopify:\/\/collections\/electric-bidet",
+            "button_style_secondary_1": false,
+            "button_label_2": "Manual Bidets",
+            "button_link_2": "shopify:\/\/collections\/manual-bidet",
+            "button_style_secondary_2": true
+          }
+        }
+      },
+      "block_order": [
+        "1650046780b300f305-0",
+        "1650046780b300f305-1",
+        "1650046780b300f305-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/banner2.jpg",
+        "image_overlay_opacity": 30,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-2",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Luxury Bidets by JEP Bath",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>JEP Bath supplies both manual and electric bidets that provide a comfortable, hygienic way to clean the most private areas. Every body deserves a comfortable and sanitary bathroom experience!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 64
+      }
+    },
+    "165004620220860bee": {
+      "type": "multicolumn",
+      "blocks": {
+        "1650046202edccde8a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/heart-symbol-removebg-preview.png",
+            "title": "Care for Customers",
+            "text": "<p>Thoughtful solutions and dedicated support for our valued customers<\/p>",
+            "link_label": "",
+            "link": "shopify:\/\/collections\/all"
+          }
+        },
+        "1650046202edccde8a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/light-bulb-removebg-preview.png",
+            "title": "Innovation with Insight",
+            "text": "<p>Designed by experts with solutions catered to each individual need<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "1650046202edccde8a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ribbon-removebg-preview.png",
+            "title": "Superior Quality",
+            "text": "<p>Highest quality components crafted for durabilty and ease of use<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "1650046202edccde8a-0",
+        "1650046202edccde8a-1",
+        "1650046202edccde8a-2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "Shop all Bidets",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "background-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    },
+    "16500401283e241e3c": {
+      "type": "featured-product",
+      "blocks": {
+        "16500401281714802d-0": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "16500401281714802d-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "16500401281714802d-2": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "subtitle"
+          }
+        },
+        "16500401281714802d-3": {
+          "type": "price",
+          "settings": {}
+        },
+        "16500401281714802d-4": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "16500401281714802d-5": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "16500401281714802d-6": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "16500401281714802d-7": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        },
+        "01cd5531-cbff-4238-a6b0-ffb09b6657d3": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "16500401281714802d-0",
+        "16500401281714802d-1",
+        "16500401281714802d-2",
+        "16500401281714802d-3",
+        "16500401281714802d-4",
+        "16500401281714802d-5",
+        "16500401281714802d-6",
+        "16500401281714802d-7",
+        "01cd5531-cbff-4238-a6b0-ffb09b6657d3"
+      ],
+      "settings": {
+        "product": "product-electric",
+        "color_scheme": "background-1",
+        "secondary_background": true,
+        "hide_variants": false,
+        "enable_video_looping": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "16500380542e9d8041": {
+      "type": "collection-list",
+      "blocks": {
+        "16500380542ba4087c-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jep-100-series"
+          }
+        },
+        "16500380542ba4087c-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "jep-200-series"
+          }
+        }
+      },
+      "block_order": [
+        "16500380542ba4087c-0",
+        "16500380542ba4087c-1"
+      ],
+      "settings": {
+        "title": "Manual Bidets",
+        "heading_size": "h2",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "color_scheme": "background-2",
+        "show_view_all": true,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    },
+    "165006805210377c93": {
+      "type": "newsletter",
+      "blocks": {
+        "16500680524c4b9e05-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to our emails",
+            "heading_size": "h1"
+          }
+        },
+        "16500680524c4b9e05-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about our new products and when  items will be back in stock<\/p>"
+          }
+        },
+        "16500680524c4b9e05-2": {
+          "type": "email_form",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "16500680524c4b9e05-0",
+        "16500680524c4b9e05-1",
+        "16500680524c4b9e05-2"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "1650039159eeebceba": {
+      "type": "collapsible-content",
+      "blocks": {
+        "16500391595c80cdc8-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Can I return it if I don't like it?",
+            "icon": "question_mark",
+            "row_content": "<p>Due to the hygienic nature of our products, JEP can only accept products that are unopened, unused, and re-sellable.<\/p><p>Customer returns will incur a 10% restocking and handling fee to offset our shipping and handling costs.<\/p><p>Please refer to our <a href=\"\/policies\/refund-policy\" title=\"Refund Policy\">Returns & Refunds<\/a> policy for more information<\/p>",
+            "page": ""
+          }
+        },
+        "16500391595c80cdc8-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the difference between JEP-101 and JEP-102",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "16500391595c80cdc8-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the difference between JEP-201 and JEP-202",
+            "icon": "question_mark",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <\/p><p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<\/p>",
+            "page": ""
+          }
+        },
+        "16500391595c80cdc8-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "What is the Warranty on your Bidets",
+            "icon": "question_mark",
+            "row_content": "<p>You can rest assured knowing that for the first year, all material and labor is covered. Beyond the first year, you will receive a three-year limited warranty.  <\/p><p>Please refer to our <a href=\"\/pages\/warranty\" title=\"Warranty\">Warranty policy <\/a>for more information<\/p><p><\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "16500391595c80cdc8-0",
+        "16500391595c80cdc8-1",
+        "16500391595c80cdc8-2",
+        "16500391595c80cdc8-3"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "Product Questions",
+        "heading_size": "h2",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-1",
+        "open_first_collapsible_row": false,
+        "image": "shopify:\/\/shop_images\/about-image.jpg",
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "image_banner",
+    "16500467805429fb38",
+    "rich_text",
+    "165004620220860bee",
+    "16500401283e241e3c",
+    "16500380542e9d8041",
+    "165006805210377c93",
+    "1650039159eeebceba"
+  ]
+}
