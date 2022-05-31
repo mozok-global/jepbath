@@ -1,6 +1,6 @@
-# jepbath
+JEP Bath
 
-JEP is a luxury bidet store that needed a better website to showcase their products. After a consultation, the client described their frustration with the Wordpress and WooCommerce platforms. Shopify was suggested and agreed upon as the platform to migrate the old website to.
+JEP Bath is a luxury bidet store that needed a better website to showcase their products. After a consultation, the client described their frustration with the Wordpress and WooCommerce platforms. Shopify was suggested and agreed upon as the platform to migrate the old website to.
 
 The migration was straightforward and easy to configure on the Shopify platform. Minimal data cleanup was required. The client currently only ships in United States, so the backend configuration was seamless.
 
